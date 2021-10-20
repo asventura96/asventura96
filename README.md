@@ -1,10 +1,7 @@
 # Olá! Eu sou **André Ventura**.
 
-- 👋 Hi, I’m @asventura96
-- 👀 I’m interested in acquiring knowledge in new technologies and in the development of new programming languages.
-- 🌱 I’m currently studying Computer Engineering at Cruzeiro do Sul Virtual College.
-- 💞️ I'm looking to collaborate on new programming languages that I come to learn throughout my studies, projects and research.
-- 📫 How to find me: Instagram/Twitter/LinkedIn @asventura96
+* 👨🏻‍🎓 Sou estudante de Engenharia da Computação na UNICSUL - Universidade Cruzeiro do Sul
+* 👨🏻‍💻 Estudo linguagens de programação: HTML, CSS, PHP, JavaScrip, SQL e Python
 
 <div align="center">
   <a href="https://github.com/asventura96">
@@ -21,5 +18,7 @@
     <a href="https://discord.gg/k92zkFcAwH" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a> 
     <a href="https://www.linkedin.com/in/asventura96" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>  
 </div>
+
+##
 
   ![Snake animation](https://github.com/asventura96/asventura96/raw/output/github-contribution-grid-snake.svg)
