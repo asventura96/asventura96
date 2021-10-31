@@ -1,7 +1,8 @@
 # Olá! Eu sou **André Ventura**.
 
-* 👨🏻‍🎓 Sou estudante de Engenharia da Computação na UNICSUL - Universidade Cruzeiro do Sul
-* 👨🏻‍💻 Estudo linguagens de programação: HTML, CSS, PHP, JavaScrip, SQL e Python
+* Sou estudante de Engenharia da Computação na UNICSUL - Universidade Cruzeiro do Sul
+* Estudo linguagens de programação: HTML, CSS, PHP, JavaScript, SQL e Python
+* Desenvolvo Bancos de Dados pelo Access
 
 <div align="center">
   <a href="https://github.com/asventura96">
