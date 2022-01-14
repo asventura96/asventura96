@@ -2,7 +2,7 @@
 
 * Sou estudante de Engenharia da Computação na UNICSUL - Universidade Cruzeiro do Sul
 * Estudo linguagens de programação: HTML, CSS, PHP, JavaScript, SQL e Python
-* Desenvolvo Bancos de Dados pelo Access
+* Desenvolvo Bancos de Dados pelo Access (SQL e VBA)
 
 <div align="center">
   <a href="https://github.com/asventura96">
