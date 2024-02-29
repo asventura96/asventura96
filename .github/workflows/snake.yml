@@ -17,7 +17,7 @@ jobs:
       # generate a snake gane
       - name: generate github-contribution-grid-snake.svg
         uses: Platane/snk/svg-only@v3
-        id: snake-gif
+        id: github-snake
         with:
           github_user_name: asventura96
           outputs: |
