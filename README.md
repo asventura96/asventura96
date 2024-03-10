@@ -1,6 +1,5 @@
 # 👋🏼👋🏼 Olá! Sou **André Ventura**!
 
-## Sobre mim
 - 🎓 Estudante de **Engenharia da Computação** na **Faculdade Descomplica**
 - 🔎 Apredendo mais sobre **HTML, CSS, JavaScript e Python**
 - 💼 Trabalhando como **Analista de TI** na empresa **ANTEBELLUM**
