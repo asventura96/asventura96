@@ -1,5 +1,6 @@
-pb<h1>👋🏼👋🏼 Olá! Meu nome é <strong>André Ventura</strong>!</h1>
+<h1>👋🏼👋🏼 Olá! Sou <strong>André Ventura</strong>!</h1>
 
+<h2 align="left">Sobre mim </h2>
 <p align="left">
   🔭 Estudante de <strong>Engenharia da Computação</strong> na <strong>Faculdade Descomplica</strong><br>
   👨🏼‍💻 Criador de um Sistema de Gestão Administrativa baseado em Access (SQL e VBA)
