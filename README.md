@@ -1,8 +1,9 @@
-# Olá! Eu sou **André Ventura**
+<h1>👋🏼👋🏼 Olá! Meu nome é <strong>André Ventura</strong>!</h1>
 
-* ⚙️ Estudante de Engenharia da Computação na Faculdade Descomplica
-* 🧑🏼‍🎓 Estudante das Linguagens: HTML, CSS, PHP, JavaScript, SQL e Python
-* 👨🏼‍💻 Desenvolvimento Bancos de Dados pelo Access (SQL e VBA)
+<p align="left>
+  🔭 Estudante de Engenharia da Computação na Faculdade Descomplica
+* 👨🏼‍💻 Criação de Sistema de Gestão Administrativa baseado em Access (SQL e VBA)
+
 
 <div align="center">
   <a href="https://github.com/asventura96">
