@@ -22,4 +22,4 @@
 
 ##
 
-  ![Snake animation](https://github.com/asventura96/asventura96/raw/output/github-contribution-grid-snake.svg)
+![Snake animation](https://github.com/asventura96/asventura96/blob/output/github-snake.svg)
