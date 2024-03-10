@@ -2,9 +2,14 @@
 
 <h2 align="left">Sobre mim </h2>
 <p align="left">
-  🔭 Estudante de <strong>Engenharia da Computação</strong> na <strong>Faculdade Descomplica</strong><br>
-  👨🏼‍💻 Criador de um Sistema de Gestão Administrativa baseado em Access (SQL e VBA)
+  🎓 Estudante de <strong>Engenharia da Computação</strong> na <strong>Faculdade Descomplica</strong><br>
+  🔎 Apredendo mais sobre <strong>HTML, CSS, JavaScript e Python</strong>
+  💼 Trabalhando como <strong>Analista de TI </strong> na empresa <strong>ANTEBELLUM</strong>
+  🔭 Criador de um Sistema de Gestão Administrativa baseado em Access (SQL e VBA)
 </p>
+
+<h2 align="left">Minhas Skills</h2>
+<h3 align="left">Aplicações e dados</h3>
 
 
 <div align="center">
