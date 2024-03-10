@@ -2,16 +2,18 @@
 
 <div align="left">
   <h2>Sobre mim</h2>
-    <p>
-      🎓 Estudante de <strong>Engenharia da Computação</strong> na <strong>Faculdade Descomplica</strong><br>
-      🔎 Apredendo mais sobre <strong>HTML, CSS, JavaScript e Python</strong>
-      💼 Trabalhando como <strong>Analista de TI </strong> na empresa <strong>ANTEBELLUM</strong>
-      🔭 Criador de um Sistema de Gestão Administrativa baseado em Access (SQL e VBA)
-    </p>
+  <p>🎓 Estudante de <strong>Engenharia da Computação</strong> na <strong>Faculdade Descomplica</strong></p>
+  <p>🔎 Apredendo mais sobre <strong>HTML, CSS, JavaScript e Python</strong></p>
+  <p>💼 Trabalhando como <strong>Analista de TI </strong> na empresa <strong>ANTEBELLUM</strong></p>
+  <p>🔭 Criador de um Sistema de Gestão Administrativa baseado em Access (SQL e VBA)</p>
 </div>
 
-<h2 align="left">Minhas Skills</h2>
-<h3 align="left">Aplicações e dados</h3>
+<div align="left">
+  <h2 align="left">Minhas Skills</h2>
+  <h3 align="left">Aplicações e dados</h3>
+  ![HTML5](https://img.shields.io/badge/-HTML5-333333?style=flat&logo=HTML5)
+  ![CSS](https://img.shields.io/badge/-CSS-333333?style=flat&logo=CSS3&logoColor=1572B6)
+</div>
 
 
 <div align="center">
