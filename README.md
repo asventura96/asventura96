@@ -1,12 +1,14 @@
 <h1>👋🏼👋🏼 Olá! Sou <strong>André Ventura</strong>!</h1>
 
-<h2 align="left">Sobre mim </h2>
-<p align="left">
-  🎓 Estudante de <strong>Engenharia da Computação</strong> na <strong>Faculdade Descomplica</strong><br>
-  🔎 Apredendo mais sobre <strong>HTML, CSS, JavaScript e Python</strong>
-  💼 Trabalhando como <strong>Analista de TI </strong> na empresa <strong>ANTEBELLUM</strong>
-  🔭 Criador de um Sistema de Gestão Administrativa baseado em Access (SQL e VBA)
-</p>
+<div align="left">
+  <h2>Sobre mim</h2>
+    <p>
+      🎓 Estudante de <strong>Engenharia da Computação</strong> na <strong>Faculdade Descomplica</strong><br>
+      🔎 Apredendo mais sobre <strong>HTML, CSS, JavaScript e Python</strong>
+      💼 Trabalhando como <strong>Analista de TI </strong> na empresa <strong>ANTEBELLUM</strong>
+      🔭 Criador de um Sistema de Gestão Administrativa baseado em Access (SQL e VBA)
+    </p>
+</div>
 
 <h2 align="left">Minhas Skills</h2>
 <h3 align="left">Aplicações e dados</h3>
