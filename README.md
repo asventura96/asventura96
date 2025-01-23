@@ -1,9 +1,10 @@
 # 👋🏼👋🏼 Olá! Sou **André Ventura**!
 
 - 🎓 Estudante de **Engenharia da Computação** na **Faculdade Descomplica**
-- 🔎 Apredendo mais sobre **HTML, CSS, JavaScript e Python**
+- 🔎 Aprendiz de **HTML, CSS, JavaScript e Python**
 - 💼 Trabalhando como **Analista de TI** na empresa **ANTEBELLUM**
-- 🔭 Criador de um Sistema de Gestão Administrativa baseado em Access (SQL e VBA)
+- 🔭 Criador do projeto **SIGA** da empresa **ANTEBELLUM Online** baseado em Django
+- 🔭 Criador do projeto **VENTURIX** baseado em Django
 
 ##
 
