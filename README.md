@@ -3,7 +3,7 @@
 - 🎓 Estudante de **Engenharia da Computação** na **Faculdade Descomplica**
 - 🔎 Aprendiz de **HTML, CSS, JavaScript e Python**
 - 💼 Trabalhando como **Analista de TI** na empresa **ANTEBELLUM**
-- 🔭 Criador do projeto [**SIGA**](https://github.com/antebellumonline/siga) da empresa [**ANTEBELLUM Online**](https://github.com/antebellumonline) baseado em Django
+- 🔭 Criador do projeto [**SIGA**] da empresa [**ANTEBELLUM Online**](https://github.com/antebellumonline) baseado em Django
 - 🔭 Criador do projeto [**VENTURIX**](https://github.com/asventura96/venturix) baseado em Django
 
 ##
