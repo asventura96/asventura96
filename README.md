@@ -29,6 +29,12 @@ Sou movido por aprendizado contínuo e gosto de colaborar com pessoas que també
   <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=asventura96&theme=dark&locale=pt_BR" alt="GitHub Streak" /></a>
 </div>
 
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=asventura96&theme=dark&show_icons=true&hide_border=true&count_private=true)
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=asventura96&theme=dark&show_icons=true&hide_border=true&layout=compact)
+
+![GitHub Stats](https://streak-stats.demolab.com?user=asventura96&theme=dark&hide_border=true)
+
 ##
 
 ![Snake animation](https://github.com/asventura96/asventura96/blob/output/github-snake.svg)
