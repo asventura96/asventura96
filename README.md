@@ -4,6 +4,16 @@
   <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=M+PLUS+Code+Latin&weight=600&size=18&pause=500&color=5D3FD3&random=true&width=600&lines=Estudante+de+Engenharia+da+Computa%C3%A7%C3%A3o;Aprendi+tentando%2C+continuo+insistindo;Persist%C3%AAncia+%C3%A9+o+meu+algoritmo+padr%C3%A3o;Apaixonado+por+Tecnologia;Experi%C3%AAncia+em+Python+com+Framework+Django;Fiz+um+sistema+em+Django+sem+saber+o+que+era+Django;Erro%2C+insisto%2C+acerto" alt="Typing SVG" /></a>
 </div>
 
+Movido pela curiosidade e pela vontade de transformar ideias em soluções, estou concluindo a graduação em Engenharia da Computação, com previsão de conclusão para o primeiro semestre de 2025. Tenho vivência prática em desenvolvimento de sistemas e suporte técnico, sempre buscando otimizar processos, enquanto aprimoro meus conhecimentos e exploro novos caminhos no universo da tecnologia.  
+
+Um dos projetos que mais me orgulho foi o desenvolvimento do Sistema Integrado de Gestão Administrativa (SIGA), utilizando Python e o framework Django. Mesmo sem nunca ter tido contato com o Django, mergulhei de cabeça no desafio, aprendi a tecnologia por conta própria e desenvolvi um sistema completo que foi colocado em produção, automatizando rotinas internas e trazendo mais eficiência para a equipe.  
+
+Também desenvolvo e gerencio sites institucionais sob demanda, usando WordPress, atuando desde a estruturação até a entrega final. Cuido de todo o processo com foco em performance, responsividade e boas práticas de SEO, garantindo que o resultado atenda aos objetivos do cliente de forma funcional e estratégica.  
+
+Além disso, atuei como administrador de Centros de Provas de certificações internacionais (EXIN, Kryterion, Pearson VUE e PSI), o que reforçou minha responsabilidade, organização e atenção aos detalhes.  
+
+Sou movido por aprendizado contínuo e gosto de colaborar com pessoas que também buscam crescimento. Atualmente, estou me aprofundando em Python, SQL, HTML, CSS e Docker, sempre em busca de aprimorar minhas entregas e explorar novas possibilidades no desenvolvimento de sistemas.
+
 ##
 
 <div align="center">
