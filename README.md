@@ -1,6 +1,6 @@
 # 👋🏼👋🏼 Olá! Sou **André Ventura**
 
-<div align="center">
+<div align="left">
   <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=M+PLUS+Code+Latin&weight=600&size=18&pause=500&color=5D3FD3&random=true&width=600&lines=Estudante+de+Engenharia+da+Computa%C3%A7%C3%A3o;Aprendi+tentando%2C+continuo+insistindo;Persist%C3%AAncia+%C3%A9+o+meu+algoritmo+padr%C3%A3o;Apaixonado+por+Tecnologia;Experi%C3%AAncia+em+Python+com+Framework+Django;Fiz+um+sistema+em+Django+sem+saber+o+que+era+Django;Erro%2C+insisto%2C+acerto" alt="Typing SVG" /></a>
 </div>
 
