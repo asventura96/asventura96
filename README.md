@@ -1,10 +1,6 @@
-# 👋🏼👋🏼 Olá! Sou **André Ventura**!
+# 👋🏼👋🏼 Olá! Sou **André Ventura**
 
-- 🎓 Estudante de **Engenharia da Computação** na **Faculdade Descomplica**
-- 🔎 Aprendiz de **HTML, CSS, JavaScript e Python**
-- 💼 Trabalhando como **Analista de TI** na empresa **ANTEBELLUM**
-- 🔭 Criador do projeto **SIGA** da empresa [**ANTEBELLUM Online**](https://github.com/antebellumonline) baseado em Django
-- 🔭 Criador do projeto **VENTURIX** baseado em Django
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=M+PLUS+Code+Latin&weight=500&pause=500&color=5D3FD3&center=true&random=true&width=450&lines=Computer+Engineering+Student;HTML%2C+CSS%2C+JavaScript+and+Python+Learner;I+learned+the+hard+way+%E2%80%94+still+learning;Persistence+is+my+default+setting;Passionate+about+technology)](https://git.io/typing-svg)
 
 ##
 
@@ -12,6 +8,10 @@
   <a href="https://github.com/asventura96">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=asventura96&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=asventura96&layout=compact&langs_count=7&theme=dark"/>
+</div>
+
+<div align="center">
+  <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=asventura96&theme=dark&locale=pt_BR" alt="GitHub Streak" /></a>
 </div>
 
 <div align="center">
