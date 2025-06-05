@@ -1,6 +1,6 @@
 # Olá! Sou **André Ventura.**
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=M+PLUS+Code+Latin&weight=600&pause=500&color=2ECC40&background=023047&vCenter=true&random=true&width=600&height=60&lines=Estudante+de+Engenharia+da+Computa%C3%A7%C3%A3o;Aprendi+tentando%2C+continuo+insistindo;Persist%C3%AAncia+%C3%A9+o+meu+algoritmo+padr%C3%A3o;Apaixonado+por+Tecnologia;Experi%C3%AAncia+em+Python+com+Framework+Django;Fiz+um+sistema+em+Django+sem+saber+o+que+era+Django;Erro%2C+insisto%2C+acerto)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=M+PLUS+Code+Latin&weight=600&pause=500&color=2ECC40&background=023047&vCenter=true&random=true&width=1000&height=60&lines=Estudante+de+Engenharia+da+Computa%C3%A7%C3%A3o;Aprendi+tentando%2C+continuo+insistindo;Persist%C3%AAncia+%C3%A9+o+meu+algoritmo+padr%C3%A3o;Apaixonado+por+Tecnologia;Experi%C3%AAncia+em+Python+com+Framework+Django;Fiz+um+sistema+em+Django+sem+saber+o+que+era+Django;Erro%2C+insisto%2C+acerto)](https://git.io/typing-svg)
 
 Movido pela curiosidade e pela vontade de transformar ideias em soluções, estou concluindo a graduação em Engenharia da Computação, com previsão de conclusão para o primeiro semestre de 2025. Tenho vivência prática em desenvolvimento de sistemas e suporte técnico, sempre buscando otimizar processos, enquanto aprimoro meus conhecimentos e exploro novos caminhos no universo da tecnologia.  
 
