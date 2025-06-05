@@ -4,6 +4,8 @@
 
 ![Snake animation](https://github.com/asventura96/asventura96/blob/output/github-snake.svg)
 
+##
+
 Movido pela curiosidade e pela vontade de transformar ideias em soluções, estou concluindo a graduação em Engenharia da Computação, com previsão de conclusão para o primeiro semestre de 2025. Tenho vivência prática em desenvolvimento de sistemas e suporte técnico, sempre buscando otimizar processos, enquanto aprimoro meus conhecimentos e exploro novos caminhos no universo da tecnologia.  
 
 Um dos projetos que mais me orgulho foi o desenvolvimento do Sistema Integrado de Gestão Administrativa (SIGA), utilizando Python e o framework Django. Mesmo sem nunca ter tido contato com o Django, mergulhei de cabeça no desafio, aprendi a tecnologia por conta própria e desenvolvi um sistema completo que foi colocado em produção, automatizando rotinas internas e trazendo mais eficiência para a equipe.  
@@ -28,5 +30,4 @@ Sou movido por aprendizado contínuo e gosto de colaborar com pessoas que també
   <a href="https://github.com/asventura96">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=asventura96&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=asventura96&layout=compact&langs_count=7&theme=dark"/>
-  <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=asventura96&theme=dark&locale=pt_BR" alt="GitHub Streak" /></a>
 </div>
