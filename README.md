@@ -1,6 +1,8 @@
 # 👋🏼👋🏼 Olá! Sou **André Ventura**
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=M+PLUS+Code+Latin&weight=500&pause=500&color=5D3FD3&center=true&random=true&width=450&lines=Computer+Engineering+Student;HTML%2C+CSS%2C+JavaScript+and+Python+Learner;I+learned+the+hard+way+%E2%80%94+still+learning;Persistence+is+my+default+setting;Passionate+about+technology)](https://git.io/typing-svg)
+<div align="center">
+  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=M+PLUS+Code+Latin&weight=600&size=18&pause=500&color=5D3FD3&random=true&width=600&lines=Estudante+de+Engenharia+da+Computa%C3%A7%C3%A3o;Aprendi+tentando%2C+continuo+insistindo;Persist%C3%AAncia+%C3%A9+o+meu+algoritmo+padr%C3%A3o;Apaixonado+por+Tecnologia;Experi%C3%AAncia+em+Python+com+Framework+Django;Fiz+um+sistema+em+Django+sem+saber+o+que+era+Django;Erro%2C+insisto%2C+acerto" alt="Typing SVG" /></a>
+</div>
 
 ##
 
