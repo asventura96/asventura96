@@ -2,6 +2,8 @@
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=M+PLUS+Code+Latin&weight=600&pause=500&color=2ECC40&background=023047&vCenter=true&random=true&width=1000&height=60&lines=Estudante+de+Engenharia+da+Computa%C3%A7%C3%A3o;Aprendi+tentando%2C+continuo+insistindo;Persist%C3%AAncia+%C3%A9+o+meu+algoritmo+padr%C3%A3o;Apaixonado+por+Tecnologia;Experi%C3%AAncia+em+Python+com+Framework+Django;Fiz+um+sistema+em+Django+sem+saber+o+que+era+Django;Erro%2C+insisto%2C+acerto)](https://git.io/typing-svg)
 
+![Snake animation](https://github.com/asventura96/asventura96/blob/output/github-snake.svg)
+
 Movido pela curiosidade e pela vontade de transformar ideias em soluções, estou concluindo a graduação em Engenharia da Computação, com previsão de conclusão para o primeiro semestre de 2025. Tenho vivência prática em desenvolvimento de sistemas e suporte técnico, sempre buscando otimizar processos, enquanto aprimoro meus conhecimentos e exploro novos caminhos no universo da tecnologia.  
 
 Um dos projetos que mais me orgulho foi o desenvolvimento do Sistema Integrado de Gestão Administrativa (SIGA), utilizando Python e o framework Django. Mesmo sem nunca ter tido contato com o Django, mergulhei de cabeça no desafio, aprendi a tecnologia por conta própria e desenvolvi um sistema completo que foi colocado em produção, automatizando rotinas internas e trazendo mais eficiência para a equipe.  
@@ -28,13 +30,3 @@ Sou movido por aprendizado contínuo e gosto de colaborar com pessoas que també
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=asventura96&layout=compact&langs_count=7&theme=dark"/>
   <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=asventura96&theme=dark&locale=pt_BR" alt="GitHub Streak" /></a>
 </div>
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=asventura96&theme=dark&show_icons=true&hide_border=true&count_private=true)
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=asventura96&theme=dark&show_icons=true&hide_border=true&layout=compact)
-
-![GitHub Stats](https://streak-stats.demolab.com?user=asventura96&theme=dark&hide_border=true)
-
-##
-
-![Snake animation](https://github.com/asventura96/asventura96/blob/output/github-snake.svg)
