@@ -6,7 +6,7 @@
 
 ##
 
-Movido pela curiosidade e pela vontade de transformar ideias em soluções, estou concluindo a graduação em Engenharia da Computação, com previsão de conclusão para o primeiro semestre de 2025. Tenho vivência prática em desenvolvimento de sistemas e suporte técnico, sempre buscando otimizar processos, enquanto aprimoro meus conhecimentos e exploro novos caminhos no universo da tecnologia.  
+Movido pela curiosidade e pela vontade de transformar ideias em soluções, recém-graduado em Engenharia da Computação. Tenho vivência prática em desenvolvimento de sistemas e suporte técnico, sempre buscando otimizar processos, enquanto aprimoro meus conhecimentos e exploro novos caminhos no universo da tecnologia.  
 
 Um dos projetos que mais me orgulho foi o desenvolvimento do Sistema Integrado de Gestão Administrativa (SIGA), utilizando Python e o framework Django. Mesmo sem nunca ter tido contato com o Django, mergulhei de cabeça no desafio, aprendi a tecnologia por conta própria e desenvolvi um sistema completo que foi colocado em produção, automatizando rotinas internas e trazendo mais eficiência para a equipe.  
 
