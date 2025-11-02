@@ -2,8 +2,6 @@
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=M+PLUS+Code+Latin&weight=600&pause=500&color=2ECC40&background=023047&vCenter=true&random=true&width=1000&height=60&lines=Engenheiro+da+Computa%C3%A7%C3%A3o;Aprendi+tentando%2C+continuo+insistindo;Persist%C3%AAncia+%C3%A9+o+meu+algoritmo+padr%C3%A3o;Apaixonado+por+Tecnologia;Experi%C3%AAncia+em+Python+com+Framework+Django;Fiz+um+sistema+em+Django+sem+saber+o+que+era+Django;Erro%2C+insisto%2C+acerto)](https://git.io/typing-svg)
 
-![Banner Cyberpunk](https://i.pinimg.com/originals/80/2f/5c/802f5c09009d78a876a3b2b8da136b69.gif)
-
 ![Snake animation](https://github.com/asventura96/asventura96/blob/output/github-snake.svg)
 
 ---
@@ -27,8 +25,3 @@ Sou movido por aprendizado contínuo e gosto de colaborar com pessoas que també
 ---
 
 [![Meus Troféus do GitHub](https://github-profile-trophy.vercel.app/?username=asventura96&theme=dark&no-frame=true&row=1)](https://github.com/ryo-ma/github-profile-trophy)
-
-[![Minha Atividade Recente no GitHub](https://github-readme-activity.vercel.app/api?username=asventura96&theme=tokyonight&header=true&footer=false&title=Atividade+Recente)](https://github.com/asventura96)
-
-![Meu GitHub Skyline 2024](https://skyline.github.com/asventura96/2024.svg)
-![Meu GitHub Skyline 2023](https://skyline.github.com/asventura96/2023.svg)
