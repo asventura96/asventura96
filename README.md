@@ -4,23 +4,49 @@
 
 ![Snake animation](https://github.com/asventura96/asventura96/blob/output/github-snake.svg)
 
+## 🚀 Sobre Mim
+
+Engenheiro da Computação (CREA-MG) e Pós-graduando em Engenharia de Software. Minha trajetória é movida pela **resiliência**: cheguei em Belo Horizonte com R$ 150,00 no bolso e o sonho da graduação, superando desafios no varejo e administrativo até me consolidar como especialista em tecnologia.
+
+Atuo como um **facilitador de processos**. Meu foco é identificar gargalos operacionais e transformá-los em sistemas automatizados de alto impacto, unindo visão de negócio e rigor técnico de engenharia.
+
 ---
 
-Movido pela curiosidade e pela vontade de transformar ideias em soluções, recém-graduado em Engenharia da Computação. Tenho vivência prática em desenvolvimento de sistemas e suporte técnico, sempre buscando otimizar processos, enquanto aprimoro meus conhecimentos e exploro novos caminhos no universo da tecnologia.  
+## 🛠️ Tech Stack & Ferramentas
 
-Um dos projetos que mais me orgulho foi o desenvolvimento do Sistema Integrado de Gestão Administrativa (SIGA), utilizando Python e o framework Django. Mesmo sem nunca ter tido contato com o Django, mergulhei de cabeça no desafio, aprendi a tecnologia por conta própria e desenvolvi um sistema completo que foi colocado em produção, automatizando rotinas internas e trazendo mais eficiência para a equipe.  
+* **Linguagens:** Python (Django), PHP, JavaScript, SQL.
+* **Web & UI:** HTML5, CSS3, Next.js, WordPress (Elementor/Divi).
+* **Dados & Infra:** MySQL, MS Access (VBA), Docker, Linux.
+* **Outros:** Administração de Centros de Provas Internacionais (EXIN, Pearson VUE, PSI).
 
-Também desenvolvo e gerencio sites institucionais sob demanda, usando WordPress, atuando desde a estruturação até a entrega final. Cuido de todo o processo com foco em performance, responsividade e boas práticas de SEO, garantindo que o resultado atenda aos objetivos do cliente de forma funcional e estratégica.  
+---
 
-Além disso, atuei como administrador de Centros de Provas de certificações internacionais (EXIN, Kryterion, Pearson VUE e PSI), o que reforçou minha responsabilidade, organização e atenção aos detalhes.  
+## 🏆 Projetos de Impacto
 
-Sou movido por aprendizado contínuo e gosto de colaborar com pessoas que também buscam crescimento. Atualmente, estou me aprofundando em Python, SQL, HTML, CSS e Docker, sempre em busca de aprimorar minhas entregas e explorar novas possibilidades no desenvolvimento de sistemas.
+* **SIGA (Sistema Integrado de Gestão Administrativa):** Liderança na migração de um sistema legado para uma plataforma 100% web em Python/Django, eliminando dependências locais e automatizando rotinas críticas.
+* **Automação de Conciliação Fiscal:** Desenvolvimento de solução autodidata em VBA que reduziu o tempo de conferência de notas fiscais de **8 horas para apenas 4 horas (50% de ganho)** com erro manual zero.
+* **RN Pinturas:** Desenvolvimento de plataforma em Django para gestão de ordens de serviço e orçamentos.
+
+---
+
+## 📊 Estatísticas do GitHub
+
+![Estatísticas do André](https://github-readme-stats.vercel.app/api?username=asventura96&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true)
+![Linguagens mais usadas](https://github-readme-stats.vercel.app/api/top-langs/?username=asventura96&layout=compact&theme=tokyonight)
+
+---
+
+## 🌌 Além do Código
+
+Nas horas vagas, sou entusiasta de **automação residencial (IA e Tuya)**, apaixonado por **astronomia** e sempre em busca de novos conhecimentos para ser melhor a cada commit.
+
+---
+
+## 📫 Vamos Conversar?
 
 [![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://api.whatsapp.com/send?phone=5531991904415)
-[![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/asventura96)
-[![Instagram](https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/asventura96)
-[![Discord](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/k92zkFcAwH)
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/asventura96)
+[![E-mail](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:andre@asventura.com.br)
 
 ---
 
