@@ -49,5 +49,3 @@ Nas horas vagas, sou entusiasta de **automação residencial (IA e Tuya)**, apai
 [![E-mail](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:andre@asventura.com.br)
 
 ---
-
-[![Meus Troféus do GitHub](https://github-profile-trophy.vercel.app/?username=asventura96&theme=dark&no-frame=true&row=1)](https://github.com/ryo-ma/github-profile-trophy)
