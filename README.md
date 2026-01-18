@@ -14,16 +14,23 @@ Atuo como um **facilitador de processos**. Meu foco é identificar gargalos oper
 
 ## 🛠️ Tech Stack & Ferramentas
 
-* **Linguagens:**
+### 💻 Linguagens
+
 [![My Skills](https://skillicons.dev/icons?i=python,django,php,javascript&theme=light)](https://skillicons.dev)
 
-* **Web & UI:**
+### 🌐 Web & UI
+
 [![My Skills](https://skillicons.dev/icons?i=html,css,nextjs,wordpress&theme=light)](https://skillicons.dev)
-* **Dados & Infra:**
+
+#### 📊 Dados & Infra
+
 [![My Skills](https://skillicons.dev/icons?i=mysql,vscode,docker,linux&theme=light)](https://skillicons.dev)
 ![Microsoft Access](https://img.shields.io/badge/Microsoft%20Access-A22838?style=for-the-badge&logo=microsoft-access&logoColor=white)
 ![VBA](https://img.shields.io/badge/VBA-273a5a?style=for-the-badge&logo=microsoft&logoColor=white)
-* **Outros:** Administração de Centros de Provas Internacionais (EXIN, Pearson VUE, PSI).
+
+#### 🎯 Outros
+
+* Administração de Centros de Provas Internacionais (EXIN, Pearson VUE, PSI).
 
 ---
 
