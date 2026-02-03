@@ -2,6 +2,8 @@
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=M+PLUS+Code+Latin&weight=600&pause=500&color=2ECC40&background=023047&vCenter=true&random=true&width=1000&height=60&lines=Engenheiro+da+Computa%C3%A7%C3%A3o;Problem+Solver+Nato;Aprendi+na+marra%2C+entrego+com+excel%C3%AAncia;De+f%C3%B3runs+a+sistemas+complexos;Python+%7C+Django+%7C+PHP+%7C+SQL)](https://git.io/typing-svg)
 
+![Snake animation](https://github.com/asventura96/asventura96/blob/output/github-snake.svg)
+
 ## 🚀 Sobre Mim: "Na Marra" e com Lógica
 
 > **"Eu não preciso saber a resposta agora; eu preciso saber onde encontrá-la e como aplicá-la."**
