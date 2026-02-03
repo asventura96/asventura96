@@ -1,64 +1,73 @@
 # Olá! Sou **André Ventura.**
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=M+PLUS+Code+Latin&weight=600&pause=500&color=2ECC40&background=023047&vCenter=true&random=true&width=1000&height=60&lines=Engenheiro+da+Computa%C3%A7%C3%A3o;Aprendi+tentando%2C+continuo+insistindo;Persist%C3%AAncia+%C3%A9+o+meu+algoritmo+padr%C3%A3o;Apaixonado+por+Tecnologia;Experi%C3%AAncia+em+Python+com+Framework+Django;Fiz+um+sistema+em+Django+sem+saber+o+que+era+Django;Erro%2C+insisto%2C+acerto)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=M+PLUS+Code+Latin&weight=600&pause=500&color=2ECC40&background=023047&vCenter=true&random=true&width=1000&height=60&lines=Engenheiro+da+Computa%C3%A7%C3%A3o;Problem+Solver+Nato;Aprendi+na+marra%2C+entrego+com+excel%C3%AAncia;De+f%C3%B3runs+a+sistemas+complexos;Python+%7C+Django+%7C+PHP+%7C+SQL)](https://git.io/typing-svg)
 
-![Snake animation](https://github.com/asventura96/asventura96/blob/output/github-snake.svg)
+## 🚀 Sobre Mim: "Na Marra" e com Lógica
 
-## 🚀 Sobre Mim
+> **"Eu não preciso saber a resposta agora; eu preciso saber onde encontrá-la e como aplicá-la."**
 
-Engenheiro da Computação (CREA-MG) e Pós-graduando em Engenharia de Software. Minha trajetória é movida pela **resiliência**: cheguei em Belo Horizonte com R$ 150,00 no bolso e o sonho da graduação, superando desafios no varejo e administrativo até me consolidar como especialista em tecnologia.
+Sou **Engenheiro da Computação (CREA-MG)** e Pós-graduando em Engenharia de Software. Minha carreira não foi construída em laboratório, mas no campo de batalha.
 
-Atuo como um **facilitador de processos**. Meu foco é identificar gargalos operacionais e transformá-los em sistemas automatizados de alto impacto, unindo visão de negócio e rigor técnico de engenharia.
+Minha jornada técnica começou pela **necessidade de otimizar**. Muito antes da faculdade, eu já aplicava lógica de dados para resolver dores reais de empresas:
+
+* 🧠 **Autodidata Investigativo:** Aprendi Excel avançado (`PROCV`, `SE`, Macros), Access e Power Query na prática para automatizar tarefas manuais.
+* 🛡️ **Resiliência e Lealdade:** Superei crises severas mantendo a ética e o suporte aos parceiros mesmo nos cenários mais adversos.
+* 🔧 **Pau para Toda Obra (Hands-on):** Da manutenção de servidores e hardware à migração de DNS para Cloudflare e desenvolvimento Backend.
 
 ---
 
 ## 🛠️ Tech Stack & Ferramentas
 
-### 💻 Linguagens
+### 💻 Backend & Lógica
 
-[![My Skills](https://skillicons.dev/icons?i=python,django,php,javascript&theme=light)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=python,django,php,javascript,mysql&theme=light)](https://skillicons.dev)
 
-### 🌐 Web & UI
+* **Microsoft Access & VBA:** Automação Desktop Avançada e Formulários.
+* **Lógica de Dados:** Tratamento de Tabelas, Cruzamento de Bases (Data Matching), Power Query e ETL manual.
 
-[![My Skills](https://skillicons.dev/icons?i=html,css,nextjs,wordpress&theme=light)](https://skillicons.dev)
+### 🌐 Web & Infra
 
-### 📊 Dados & Infra
+[![My Skills](https://skillicons.dev/icons?i=html,css,nextjs,wordpress,docker,linux,cloudflare&theme=light)](https://skillicons.dev)
 
-[![My Skills](https://skillicons.dev/icons?i=mysql,vscode,docker,linux&theme=light)](https://skillicons.dev)
-![Microsoft Access](https://img.shields.io/badge/Microsoft%20Access-A22838?style=for-the-badge&logo=microsoft-access&logoColor=white)
-![VBA](https://img.shields.io/badge/VBA-273a5a?style=for-the-badge&logo=microsoft&logoColor=white)
-
-### 🎯 Outros
-
-* Administração de Centros de Provas Internacionais (EXIN, Pearson VUE, PSI).
+* **CMS/Builders:** WordPress (Divi/Elementor).
+* **Infra:** Gestão de Servidores (Hostinger), Redes, Firewalls e Hardware.
 
 ---
 
-## 🏆 Projetos de Impacto
+## 🏆 Projetos de Impacto (A Evolução Técnica)
 
-* **SIGA (Sistema Integrado de Gestão Administrativa):** Liderança na migração de um sistema legado para uma plataforma 100% web em Python/Django, eliminando dependências locais e automatizando rotinas críticas.
-* **Automação de Conciliação Fiscal:** Desenvolvimento de solução autodidata em VBA que reduziu o tempo de conferência de notas fiscais de **8 horas para apenas 4 horas (50% de ganho)** com erro manual zero.
-* **RN Pinturas:** Desenvolvimento de plataforma em Django para gestão de ordens de serviço e orçamentos.
+### 1. SIGA - Sistema Integrado de Gestão Administrativa (Antebellum)
 
----
+* **O Desafio:** Migrar um legado em Access para Web.
+* **A Solução:** Desenvolvi uma plataforma **Python/Django** completa.
+* **O Diferencial:** Utilizei **Inteligência Artificial** como ferramenta de aprendizado acelerado e *pair programming* para solucionar problemas avançados de arquitetura que não encontrava em fóruns ou documentações, entregando um sistema robusto sem nunca ter mexido com Django antes.
 
-## 📊 Estatísticas do GitHub
+### 2. Automação de Conciliação Fiscal (AC Parceria)
 
-![Estatísticas do André](https://github-readme-stats.vercel.app/api?username=asventura96&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true)
-![Linguagens mais usadas](https://github-readme-stats.vercel.app/api/top-langs/?username=asventura96&layout=compact&theme=tokyonight)
+* **O Problema:** O ERP da empresa (90TI) não conversava com os softwares fiscais. A conferência era visual e sujeita a falhas.
+* **A Lógica:** Criei um sistema em **Microsoft Access** que importava as tabelas geradas pelo software fiscal (migrei do Espião para o **SIEG**) e as tabelas do ERP. O Access cruzava os dados e apontava automaticamente as divergências.
+* **Democratização dos Dados:** Implementei conexões via **Excel Power Query** para que outros colaboradores pudessem consultar os relatórios gerados pelo Access diretamente em planilhas, sem precisarem abrir o banco de dados.
+* **Resultado:** Redução de **8h para 4h** no tempo de conferência.
+
+### 3. Otimizações Administrativas (Soar & Clínica Pacheco)
+
+* **Power User (Ultracar & 90TI):** Atuei como usuário chave na operação dos sistemas, aprendendo a customizar e desenhar formulários internos por conta própria (observando o suporte técnico e testando), reduzindo a dependência de chamados externos.
+* **Gestão Financeira:** Implementei Macros e `PROCV` para criar um controle autônomo e rastreável de recibos emitidos.
+* **Lógica Aplicada:** Na Clínica Pacheco, substituí livros-caixa manuais por planilhas com lógica condicional (`SOMASE`, `SE`) para cálculo automático de comissões.
 
 ---
 
 ## 🌌 Além do Código
 
-Nas horas vagas, sou entusiasta de **automação residencial (IA e Tuya)**, apaixonado por **astronomia** e sempre em busca de novos conhecimentos para ser melhor a cada commit.
+* **Segurança & Privacidade:** Vivência prática na implementação de políticas de proteção de dados e segurança da informação.
+* **Hobbies:** Automação Residencial (Tuya/IA) e Astronomia.
 
 ---
 
 ## 📫 Vamos Conversar?
 
+Se você busca um desenvolvedor que não apenas "coda", mas entende o negócio, investiga a solução e resolve o problema de ponta a ponta:
+
 [![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://api.whatsapp.com/send?phone=5531991904415)
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/asventura96)
 [![E-mail](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:andre@asventura.com.br)
-
----
