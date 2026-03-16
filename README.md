@@ -1,6 +1,6 @@
 # Olá! Sou **André Ventura.**
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=M+PLUS+Code+Latin&weight=600&pause=500&color=2ECC40&background=023047&vCenter=true&random=true&width=1000&height=60&lines=Engenheiro+da+Computa%C3%A7%C3%A3o;Problem+Solver+Nato;Aprendi+na+marra%2C+entrego+com+excel%C3%AAncia;De+f%C3%B3runs+a+sistemas+complexos;Python+%7C+Django+%7C+PHP+%7C+SQL)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=M+PLUS+Code+Latin&weight=600&pause=500&color=2ECC40&background=023047&vCenter=true&random=true&width=1000&height=60&lines=Engenheiro+da+Computa%C3%A7%C3%A3o;Arquiteto+de+Software+e+Ecossistemas;Aprendi+na+marra%2C+entrego+com+excel%C3%AAncia;De+f%C3%B3runs+a+sistemas+complexos;CI%2FCD%2C+Automa%C3%A7%C3%A3o+e+APIs;Python+%7C+Django+%7C+PHP+OOP+%7C+SQL)](https://git.io/typing-svg)
 
 ![Snake animation](https://github.com/asventura96/asventura96/blob/output/github-snake.svg)
 
@@ -38,20 +38,29 @@ Minha jornada técnica começou pela **necessidade de otimizar**. Muito antes da
 
 ## 🏆 Projetos de Impacto (A Evolução Técnica)
 
-### 1. SIGA - Sistema Integrado de Gestão Administrativa (Antebellum)
+### 1. Ecossistema Modular VETTRYX WP Core (SaaS Architecture)
+
+* **O Desafio:** Criar uma infraestrutura escalável para gerenciar dezenas de sites de clientes simultaneamente, garantindo atualizações automatizadas, segurança e prestação de contas (SLA) sem trabalho manual.
+* **A Solução:** Arquitetura de um Core Plugin em **PHP Orientado a Objetos** que gerencia múltiplos submódulos independentes via **Git Submodules**.
+* **O Diferencial Técnico:**
+  * **CI/CD & Automação OTA:** Implementação de pipelines com **GitHub Actions** para empacotar releases e distribuir atualizações *Over-The-Air* (OTA) para os servidores dos clientes via API própria.
+  * **Gestão de Banco de Dados:** Criação de tabelas isoladas (`dbDelta`) e rotinas agendadas (Cron Jobs) para varredura e limpeza de logs de auditoria (retenção de 180 dias).
+  * **Compliance & Automação de SLA:** Desenvolvimento de módulos nativos que geram relatórios de manutenção em PDF dinamicamente, cruzando dados de acessos e edições para comprovação jurídica de serviços prestados e adequação à LGPD.
+
+### 2. SIGA - Sistema Integrado de Gestão Administrativa (Antebellum)
 
 * **O Desafio:** Migrar um legado em Access para Web.
 * **A Solução:** Desenvolvi uma plataforma **Python/Django** completa.
 * **O Diferencial:** Utilizei **Inteligência Artificial** como ferramenta de aprendizado acelerado e *pair programming* para solucionar problemas avançados de arquitetura que não encontrava em fóruns ou documentações, entregando um sistema robusto sem nunca ter mexido com Django antes.
 
-### 2. Automação de Conciliação Fiscal (AC Parceria)
+### 3. Automação de Conciliação Fiscal (AC Parceria)
 
 * **O Problema:** O ERP da empresa (90TI) não conversava com os softwares fiscais. A conferência era visual e sujeita a falhas.
 * **A Lógica:** Criei um sistema em **Microsoft Access** que importava as tabelas geradas pelo software fiscal (migrei do Espião para o **SIEG**) e as tabelas do ERP. O Access cruzava os dados e apontava automaticamente as divergências.
 * **Democratização dos Dados:** Implementei conexões via **Excel Power Query** para que outros colaboradores pudessem consultar os relatórios gerados pelo Access diretamente em planilhas, sem precisarem abrir o banco de dados.
 * **Resultado:** Redução de **8h para 4h** no tempo de conferência.
 
-### 3. Otimizações Administrativas (Soar & Clínica Pacheco)
+### 4. Otimizações Administrativas (Soar & Clínica Pacheco)
 
 * **Power User (Ultracar & 90TI):** Atuei como usuário chave na operação dos sistemas, aprendendo a customizar e desenhar formulários internos por conta própria (observando o suporte técnico e testando), reduzindo a dependência de chamados externos.
 * **Gestão Financeira:** Implementei Macros e `PROCV` para criar um controle autônomo e rastreável de recibos emitidos.
